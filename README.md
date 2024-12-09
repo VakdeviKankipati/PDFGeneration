@@ -41,7 +41,7 @@
 
   .Successful PDF generation.
 
-  .Handling of edge cases (e.g., empty item list).
+  .Handling of edge cases .
 
   .Exception handling scenarios.
 
@@ -51,7 +51,7 @@
 
 ->Verified that:
 
-   .The PDF file is created successfully.
+   .The PDF file is created successfully.(generated_invoice.pdf)
 
    .The file contains non-empty content.
 
@@ -70,7 +70,7 @@
 
 ->Validates input and handles edge cases.
 
-->Manages file-related exceptions (e.g., missing directory).
+->Manages file-related exceptions.
 
 
 7.)Outcome:
